@@ -46,7 +46,7 @@ We specialize in crafting high‑quality, scalable, and secure software for busi
 
 - **Website:** *https://ottosoft.in*  
 - **Email:** *info@ottosoft.in*  
- 
+- **LinkedIn:** *https://www.linkedin.com/in/ottosoft*  
 
 ---
 
